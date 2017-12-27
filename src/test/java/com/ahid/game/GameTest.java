@@ -186,6 +186,7 @@ public class GameTest {
     }
 
 
+    // This is main TEST - Do Alice win or not)))))
     // same as previous test, but last shift as depends test task
     @Test
     public void gameFinishWithLastShiftTest() throws InvalidPointException {
