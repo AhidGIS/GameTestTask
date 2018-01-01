@@ -178,6 +178,7 @@ public class GameTest {
                 new GameObject.Point(6,0),
                 new GameObject.Point(2,2)
         ), Boolean.TRUE);
+        
         System.out.println("gameFinishTest 8");
         System.out.println(go);
         assertFalse(go.isGameWinnerByTrue());
